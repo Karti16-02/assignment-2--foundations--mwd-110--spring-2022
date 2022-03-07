@@ -1,0 +1,24 @@
+* {
+  border: 4px solid transparent;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  border-color: blue;
+}
+
+body {
+  border-color: purple;
+  width: 1200px;
+}
+
+header {
+  border-color: blue;
+  width: 500px;
+}
+
+main {
+  border-color: pink;
+  width: 600px;
+}
