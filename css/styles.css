@@ -1,24 +1,18 @@
-* {
-  border: 4px solid transparent;
-  margin: 0;
-  padding: 0;
+p{
+  color: #9ccddc;
+  font-family: 'Spectral SC', serif;
 }
 
-html {
-  border-color: blue;
+h1,h2{
+  color: #9ccddc;
+  font-family: 'Genos', sans-serif;
+  font-size: 40px;
 }
 
-body {
-  border-color: purple;
-  width: 1200px;
-}
+footer{
+  color: #9aeadd;
+};
 
-header {
-  border-color: blue;
-  width: 500px;
-}
-
-main {
-  border-color: pink;
-  width: 600px;
+a{
+  color: #9aeadd;
 }
