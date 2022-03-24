@@ -1,18 +1,25 @@
+
 p{
   color: #9ccddc;
   font-family: 'Spectral SC', serif;
 }
 
-h1,h2{
+h1, {
   color: #9ccddc;
   font-family: 'Genos', sans-serif;
   font-size: 40px;
 }
 
-footer{
+h2, {
+  color: #9ccddc;
+  font-family: 'Genos', sans-serif;
+  font-size: 40px;
+}
+
+footer {
   color: #9aeadd;
 };
 
-a{
+a {
   color: #9aeadd;
 }
