@@ -2,21 +2,24 @@
   background-color: #062c43;
 }
 
-p{
-  color: #9ccddc;
+p {
+  color: #9aeadd;
   font-family: 'Spectral SC', serif;
 }
 
-h1, {
-  color: #9ccddc;
+h1,
+h2 {
+  color: #9aeadd;
   font-family: 'Genos', sans-serif;
   font-size: 40px;
 }
 
-h2, {
-  color: #9ccddc;
-  font-family: 'Genos', sans-serif;
-  font-size: 40px;
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
 }
 
 footer {
